@@ -144,12 +144,3 @@ models/*.pkl
 
 # vscode Stuff
 .vscode
-
-# Notebooks and files
-optional/*.py
-optional/*.ipynb
-1_Fetching_the_data_eda.ipynb
-assignment.md
-worflow.md
-cleaning_data.py
-
