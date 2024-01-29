@@ -146,4 +146,4 @@ models/*.pkl
 .vscode
 
 # folder
-.optional/
+\optional
